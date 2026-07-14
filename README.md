@@ -14,13 +14,13 @@ An interactive Power BI Dashboard designed to analyze and visualize the sales pe
 Here is a preview of the interactive dashboard:
 
 ### 1. Sales Performance Overview
-![Overview](Screenshot 2026-07-14 203533.png)
+![Overview](Screenshot%202026-07-14%20203533.png)
 
 ### 2. Total Sales Trends
-![Trends](Screenshot 2026-07-14 203547.png)
+![Trends](Screenshot%202026-07-14%20203547.png)
 
 ### 3. Product Performance & Profit Margins
-![Product Margins](Screenshot 2026-07-14 203600.png)
+![Product Margins](Screenshot%202026-07-14%20203600.png)
 
 ## 🛠️ Tools & Technologies Used
 * **Power BI Desktop:** For data modeling, DAX calculations, and report visualization.
@@ -29,7 +29,7 @@ Here is a preview of the interactive dashboard:
 
 ## 📁 Repository Structure
 * `/200601.csv`: Contains raw and processed CSV datasets.
-* `AdventureWorks_Sales_Dashboard.pbix.pbix`: The main Power BI project file (feel free to download and explore).
+* `/AdventureWorks_Sales_Dashboard.pbix.pbix`: The main Power BI project file.
 
 ---
 *Created by [Fərid Əhmədov](https://github.com/feridehmedovv200)*
